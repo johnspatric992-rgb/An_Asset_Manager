@@ -1,0 +1,31 @@
+# Python virtual environment
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+installer/
+
+# PyInstaller output
+*.spec
+
+# Database files
+*.db
+
+# Installer / build artifacts
+*.exe
+*.msi
+*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
